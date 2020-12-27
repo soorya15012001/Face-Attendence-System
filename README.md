@@ -10,6 +10,7 @@ The folder "face_similarity" contains the codes that are required for running th
 4) Run the "data.py" code to pre-process the images. The images are modified and replaced with the original images.
 5) To train the model run "train.py". Change the model name at last to not replace the original model.
 6) To test the model on given input run the "test.py". Change the locations of input images, written as 'img1_path" and "img2_path".
+7) My images are in the "face_similarity" named, "soorya _01.jpg" and "soorya _02.jpg"
 
 Requirements :-
 1) Keras -- 2.3.1
