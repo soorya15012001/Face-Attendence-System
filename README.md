@@ -6,7 +6,7 @@ The folder "face_similarity" contains the codes that are required for running th
 
 1) Download the dataset from http://vis-www.cs.umass.edu/lfw/lfw.tgz. extract it and rename it as "data" and place it in the "face_similarity" folder.
 2) Install the haarcascade from https://drive.google.com/file/d/1UCoojYteOVdAlSyXmS37jnCQWC73Airw/view?usp=sharing. Place it in the "face_similarity" folder.
-3) Download the pre-trained model from .place it in the "face_similarity" folder.
+3) Download the pre-trained model from https://drive.google.com/file/d/1EqY0eBgXp-fG7DS532vY52SgoY762YOz/view?usp=sharing.place it in the "face_similarity" folder.
 4) Run the "data.py" code to pre-process the images. The images are modified and replaced with the original images.
 5) To train the model run "train.py". Change the model name at last to not replace the original model.
 6) To test the model on given input run the "test.py". Change the locations of input images, written as 'img1_path" and "img2_path".
